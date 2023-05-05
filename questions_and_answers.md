@@ -1,6 +1,6 @@
 # Data Bank
 ## Questions and Answers
-### by jaime.m.shaker@gmail.com
+
 
 **A. Customer Nodes Exploration**
 
